@@ -52,5 +52,3 @@ cp -r hypr/ waybar/ ~/.config/
 ```
 
 ---
-
-*"If history is to change, let it change. If the world is to be destroyed, so be it."*
